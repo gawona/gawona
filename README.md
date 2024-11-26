@@ -76,6 +76,8 @@
 </div>
 
 <br>
+<hr>
+<br>
 
 <h3 align="center">⌨ Problem Solving ⌨</h3>
 <div align="center">
@@ -83,6 +85,7 @@
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gawon127)](https://solved.ac/gawon127)
 </div>
 
+<!--
 <br>
 
 <h3 align="center">Github</h3>
@@ -94,7 +97,7 @@
   
 ![gawon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gawona&show_icons=true&theme=nord)
 </div>
-
+-->
 
 
 <!--
